@@ -1,0 +1,2 @@
+# study
+exercise c++
